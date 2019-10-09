@@ -384,3 +384,7 @@ This module ships its `*.d.ts` file as part of its NPM package, which allows you
 ---
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+## Notes
+
+This repository was created to solve conflict errors on my project
